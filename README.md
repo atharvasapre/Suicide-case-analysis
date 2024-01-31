@@ -26,14 +26,11 @@ The dataset includes global suicide rates, demographic data, and socio-economic 
 ## Project Website
 For a comprehensive view of the project including both Python and Flourish visualizations, visit our [Google website](https://sites.google.com/view/suicide-analysis-ie6600/home).
 
-## Installation & Usage
-Instructions on setting up and using the project, including necessary libraries and steps to run the visualizations.
+![Description of Image 2](URL_of_Image_2)
+*Caption for Image 2*
 
-## Contributing
-Guidelines on how to contribute to the project, including issue submissions, pull requests, and contact information for the project maintainers.
+![Homepage Snapshot](URL_of_Homepage_Screenshot)
+*This is a snapshot of the homepage showcasing an overview of the project.*
 
-## License
-Information regarding the project's licensing, detailing how it can be used or modified.
-
-## Acknowledgments
-Acknowledgements to individuals, organizations, or resources that have contributed to the project.
+![Visualization Snapshot](URL_of_Visualization_Screenshot)
+*Snapshot of one of the key visualizations from the project.*
